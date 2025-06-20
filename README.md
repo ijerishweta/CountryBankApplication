@@ -1,6 +1,6 @@
-# CountryBankApplication
+🚀 Spring Boot Application Deployment with Docker & Jenkins CI/CD
 
-Simple bank application with Spring Boot and Spring Data
+This project demonstrates how to automate the build, containerization, and deployment of a Java-based Spring Boot application using Jenkins Continuous Integration/Continuous Deployment (CI/CD) and Docker.
 
 ![image](https://github.com/user-attachments/assets/0b917b81-6b87-4523-9433-6f17a0333075)
 
